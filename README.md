@@ -26,6 +26,7 @@
 ### End Points
 
 GET /posts -- lists all posts
+
 POST /posts -- creates a new post.
     payload: { 
         title: <string>
@@ -34,6 +35,7 @@ POST /posts -- creates a new post.
      }
 
 GET /posts/{post_id} -- gets specific post by id
+
 GET /tags -- lists all tags
 
 POST /posts/{post_id}/setComment -- add comment to existing post.
