@@ -1,6 +1,8 @@
 ## Requirements
 > Composer 
+
 > php 8+
+
 > mySQL 5.7+
 
 
